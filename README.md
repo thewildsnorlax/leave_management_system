@@ -42,7 +42,7 @@ Project done under Software Engineering course at IIT Jodhpur
 
 ## Contributors
 - [Abhimanyu Singh Gaur] (https://github.com/abhimanyusinghgaur)
-- [Ashish Sahu] (https://github.com/pikachu97)
+- [Ashish Sahu] (https://github.com/thewildsnorlax)
 - [Ajeet Ujjwal] (https://github.com/ajeet-ujjwal)
 - [Daval Pargal] (https://github.com/davalpargal)
 
